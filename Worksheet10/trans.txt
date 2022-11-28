@@ -1,0 +1,5 @@
+account number	Transaction amount
+100 			27.14
+300 			62.11
+400 			100.56
+900 			2.17
